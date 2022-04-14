@@ -49,5 +49,5 @@ jobs:
         with:
           app-name: 'APP-Fred'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1E6A7CEAA6C64E55A67A1A2C41EFFF97 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CFEEB89B8CF848408BBBE64F997699D9 }}
           package: '*.jar'
